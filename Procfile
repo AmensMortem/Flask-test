@@ -1,1 +1,1 @@
-web: python aipip.py
+web: python ai.py
